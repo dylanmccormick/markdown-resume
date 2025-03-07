@@ -1,48 +1,37 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+<span style="float:right;padding:6px">
+    dylan.mccormick@outlook.com <br>
 </span>
 
-# Casualwriter  
+# Dylan McCormick
 
-## Executive Summary
+## Cloud Software Engineer
+Cloud software engineer with over 4 years of AWS development experience in python and serverless tools. Celebrated as an engaged and hard-working engineer who prioritizes good communication and quick iteration. Passionate about shortening the feedback loop for developers by creating and testing with local development tooling. 
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+## Related Experience
 
-## Working Experience
+#### Fidelity Investments (Cloud Engineer, Apr 2023 - present)
+- Developed automation for managing 1800+ amazon web services accounts
+- Created and designed serverless architecture for applications supporting 1800+ amazon web services (AWS) accounts using Python, Eventbridge, ApiGateway, Stepfunctions, and Lambda
+- Created automation for testing and deploying serverless applications using Jenkins and Terraform/OpenTofu
+- Maintained and improved springboot APIs which facilitate aws account management and access
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Infor (Associate Software Engineer, May 2021 - Apr 2023)
+- Utilized knowledge of Javascript and React to update and modify an existing UI for accessing our observability tool
+- Created processes for automated code testing, monitoring, and deployment using Cloudformation, Gitlab CI/CD, and internal IAC tooling
+- Monitored and provided support for a cloud monitoring tool which processed up to 60 million metrics per minute
+- Developed a security certificate management tool leveraging Netflix's open-source program, Lemur
+- Created and maintained APIs using FastAPI and leveraging DynamoDB and Elasticache
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+#### Furman University Computer Science Dept. (Computer Science Fall, 2018 - Spring 2019)
+- Assisted students with code design and implementation
+- Resolved software problems with student and ensured consistent hardware functionality in the lab
+- Used and demonstrated software tools to help students debug their own programs
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
-
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
-
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
-
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+#### Blue Cross Blue Shield SC (Intern, Healthcare Innovations, Summer 2019, 2020)
+- Analyzed risk management program in Hedalthcare Innovations and used Tableau to design, develop, and implement an interactive dashboard
+- Designed Alation homepage using Alation API
+- Created a process for budget reporting useing DB2 and Power BI
 
 ## Education & Qualifications
-
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
-## Misc. Information
-
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+- Certified AWS Solutions Architect Associate (Apr 2023)
+- Bachelors of Computer Science and Music (Furman University, 2017-2021)
